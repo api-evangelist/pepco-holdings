@@ -1,0 +1,7 @@
+aid: pepco-holdings
+url: https://raw.githubusercontent.com/api-evangelist/pepco-holdings/refs/heads/main/apis.yml
+modified: '2026-03-24'
+apis: []
+common:
+  - type: Website
+    url: https://www.pepco-holdings.com
