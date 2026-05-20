@@ -20,6 +20,10 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/Pepco
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/phi
   - type: Website
     url: https://www.pepco.com
   - type: Parent Company
