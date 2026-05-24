@@ -28,6 +28,8 @@ common:
     url: https://www.pepco.com
   - type: Parent Company
     url: https://www.exeloncorp.com
+  - type: LLMsTxt
+    url: https://www.pepco.com/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
