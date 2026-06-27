@@ -28,7 +28,7 @@ common:
     url: https://www.pepco.com
   - type: Parent Company
     url: https://www.exeloncorp.com
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://www.pepco.com/llms.txt
 maintainers:
   - FN: Kin Lane
