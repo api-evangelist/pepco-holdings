@@ -42,6 +42,11 @@ modified: '2026-04-28'
 specificationVersion: '0.23'
 apis: []
 common:
+  - type: ParentCompany
+    url: https://apis.io/providers/exelon/
+    name: Exelon
+    x-relationship: acquired
+    x-evidence: "Pepco Holdings was a holding company providing electric and natural gas service to customers in Delaware, Maryland, New Jersey, and the District of Columbia before being acquired by Exelon."
   - type: DomainSecurity
     url: security/pepco-holdings-domain-security.yml
   - type: GitHubOrganization
